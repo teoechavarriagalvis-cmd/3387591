@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>SportbikesOfficial</title>
+</head>
+<body>
+    
+        <h1 class="titulo-principal">SPORTBIKES MEGYAHA</h1>
+        <p class="subtitulo">LAS MEJORES MOTOS DEL MUNDO...</p>
+        
+            <h3>¿Quieres competir con la mejor calidad?</h3>
+            <p>Somos la nueva marca de motos de alta gama, comprometidos con la excelencia y el rendimiento para las competencias de alto nivel.</p>
+            <p>Nuestro objetivo es ofrecer la mejor experiencia de conducción para los entusiastas de las motos de alto rendimiento, además de aumentar nuestro prestigio participando en las competencias de MOTOGP para con nuestro duro y comprometido trabajo
+                lograr el título mundial de MOTOGP.</p>
+            </p>Manejamos una amplia gama de motos deportivas, diseñadas para ofrecer un rendimiento excepcional en la pista. Nuestras motos están equipadas con tecnología de vanguardia, motores potentes y un diseño aerodinámico para garantizar la máxima velocidad y control
+                en cada curva.
+            Traemos motos desde 600cc hasta 1000cc y todas adaptadas para las necesidades de los pilotos más experimentados en la pista competitiva.</p>
+                
+        </section>
+    </div>
+</header>
+
+<section class="titulos">
+    <h2>TITULOS GANADOS EN COMPETENCIAS PROFESIONALES</h2>
+
+                    <ul><li>WORLD SUPERBIKE: 3 títulos (2018 *Primer lugar*, 2019 *Primer lugar*, 2021 *Tercer lugar*)</li></ul>
+                    <ul><li>BRITISH SUPERBIKE CHAMPIONSHIP: 1 título (2020 *Segundo lugar*)</li></ul>
+                    <ul><li>WORLD SSP: 2 títulos (2022 *Primer y segundo lugar*)</li></ul>
+                    <ul><li>ISLE OF MAN TT: 4 títulos (2023 *Tercer y segundo lugar*, 2024 *Primer lugar*, 2025 *Primer lugar*)</li></ul>
+                    <ul><li>DAYTONA 200: 1 título (2026 *Segundo lugar*)</li></ul>
+
+<section class="seccion-video">
+    <h3><p>Algunos de los videos de nuestras participaciones en estas competencias:</p></h3>
+    <a href="https://youtu.be/1iTpPzyTzOA" target="_blank" class="enlace-destacado">
+        Isle of Man TT  - Youtube</a><p></p>
+        <a href="https://youtu.be/linY5-PshIs" target="_blank" class="enlace-destacado">
+        World Superbike  - Youtube</a><p></p>
+        <a href="https://youtu.be/KZknQHjTe_g" target="_blank" class="enlace-destacado">
+        British Superbike Championship  - Youtube</a>
+</section>
+
+<h3>¡ CONOCE NUESTRA HISTORIA!</h3>
+<p>MEGYAHA: Rugiendo desde lo imposible</p>
+
+<p>En el año 2004, en un pequeño taller escondido entre montañas y carreteras olvidadas, nació una idea que muchos consideraron absurda. Su creador, un joven ingeniero obsesionado con la velocidad y la libertad,
+ soñaba con construir una motocicleta que no solo fuera una máquina, sino una extensión del alma del piloto. A esa idea la llamó MEGYAHA. El nombre no tenía un significado claro para los demás, 
+ pero para él representaba el sonido de un motor perfecto rompiendo el silencio: “MEG-YA-HA”, una mezcla de potencia, ritmo y espíritu indomable.
+
+<h3>Los inicios (2004–2009): resistencia y pasión</h3>
+
+Los primeros modelos de MEGYAHA fueron ensamblados a mano, con piezas recicladas y una creatividad desbordante. No eran las motos más bonitas, ni las más rápidas, 
+pero tenían algo especial: carácter. Cada moto parecía tener personalidad propia.
+
+Durante años, sobrevivimos gracias a un pequeño grupo de entusiastas que valoraban la autenticidad por encima del prestigio. MEGYAHA no competía con gigantes; simplemente existía… y resistía.
+
+<h3>El giro de 180 grados (2010–2014): cuando el mundo escucha el rugido</h3>
+
+Todo cambió cuando uno de sus modelos, la MEGYAHA Vortex 700, ganó inesperadamente una carrera regional contra marcas mucho más reconocidas. No fue solo una victoria: fue una declaración.
+La noticia se expandió rápidamente en comunidades de motociclistas. MEGYAHA empezó a ser vista como una marca rebelde, diferente, creada para quienes no siguen reglas.
+En estos años, la empresa creció, pero mantuvo su esencia: diseños agresivos, motores potentes y una filosofía clara — <h3>"La moto no te controla, tú la dominas."</h3>
+
+<h3>La expansión (2014–2017): identidad global</h3>
+
+MEGYAHA dio el salto internacional. Sus modelos comenzaron a venderse en distintos continentes, destacándose por su estética única y su sonido inconfundible.
+La marca ya no era un secreto underground. Se convirtió en un símbolo de individualidad.
+
+<h3>MEGYAHA hoy (2023–2026): el equilibrio perfecto</h3>
+
+Actualmente, MEGYAHA es una marca que combina lo mejor de dos mundos:
+ <ul><li>CALIDAD Y TECNOLOGIA AVANZADA</li></ul>
+ <ul><li>COMPETITIVIDAD A NIVEL MUNDIAL</li></ul>
+</p>
+
+        <span class="emoji-moto">🏍️</span>
+        <a href="https://youtu.be/txCsdIIAL9E" target="_blank" class="enlace-destacado">
+        Participacion en MOTOGP TITULO MUNDIAL - Youtube
+        <span class="emoji-trofeo">🏆</span>
+        </a>
+    <h3 >NUESTRO LEMA ACTUAL...</h3>
+    <h1>¡NO SEGUIMOS CAMINOS, LOS CREAMOS Y COMPETIMOS!</h1>
+
+</body>
+</html>
